@@ -9,6 +9,7 @@
 &nbsp; &nbsp; &nbsp;
 <a href="1차프로젝트git주소"><img src="https://img.shields.io/badge/🎯%201ST%20PROJECT-4A90E2?style=for-the-badge&logo=github&logoColor=white" width="250"></a>
 &nbsp; &nbsp; &nbsp;
+</div>
 
 ---
 
