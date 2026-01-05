@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20kimjuy's%20Profile!&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20kimjupyo's%20Profile!&fontSize=50)
 
 ## 🔗 학습일지 & 프로젝트 LINK
 > 💡 **KDT 기업맞춤형 AI-X 교육과정 (824시간)**  
